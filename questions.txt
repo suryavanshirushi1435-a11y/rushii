@@ -1,0 +1,11 @@
+# Sample questions. Format: question | answer
+# Replace these with your own, one card per line.
+
+What is the capital of Karnataka? | Bengaluru
+What is the chemical symbol for gold? | Au
+Who wrote the Indian Constitution as chairman of the drafting committee? | B. R. Ambedkar
+What is the SI unit of force? | Newton
+How many states does India have? | 28
+What is the powerhouse of the cell? | Mitochondria
+Which gas do plants absorb during photosynthesis? | Carbon dioxide
+What is the largest planet in the solar system? | Jupiter
